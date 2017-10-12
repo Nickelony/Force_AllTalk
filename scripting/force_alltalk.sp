@@ -34,7 +34,7 @@ public void OnPluginStart()
 	
 	HookEvent("round_start", OnRoundStart, EventHookMode_PostNoCopy);
 	
-	gCV_PluginEnable = CreateConVar("sm_alltalk", "1", "Enable forced AllTalk", FCVAR_NOTIFY, true, 0.0, true, 1.0);
+	gCV_PluginEnable = CreateConVar("sm_alltalk", "1", "Enable or Disable forced AllTalk.", FCVAR_NOTIFY, true, 0.0, true, 1.0);
 	
 	sv_alltalk = FindConVar("sv_alltalk");
 	sv_deadtalk = FindConVar("sv_deadtalk");

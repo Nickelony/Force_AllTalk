@@ -7,6 +7,9 @@ This plugin will keep them enabled all the time.
 
 <a href="https://forums.alliedmods.net/showthread.php?t=301977">AlliedModders Thread</a>
 
+<b>CVars:</b><br>
++ <b>sm_alltalk</b> - Enables or Disables forced AllTalk.
+
 <b>Installation:</b><br>
 Just drag and drop "force_alltalk.smx" into your "plugins" folder and restart the server.
 
