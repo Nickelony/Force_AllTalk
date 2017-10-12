@@ -1,6 +1,7 @@
 <img src="https://puu.sh/xWlTn.png"></img><br>
 <b>A very simple plugin that enables every 'talk' related CVar.</b><br>
-Some 'talk' CVars might be disabled after starting a new round in CS:GO (even if they are enabled in the configs). This plugin will keep them enabled all the time.
+Some 'talk' CVars might be disabled after starting a new round in CS:GO (even if they are enabled in the configs).<br>
+This plugin will keep them enabled all the time.
 
 <i>Useful for bhop / deathmatch / speedrun / surf servers.</i>
 
